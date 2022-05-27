@@ -17,48 +17,24 @@
 					"description": "книги",
 					"amount": "20"
 				},
-				{
-					"description": "ручки",
-					"amount": "50"
-				}
-			]
+				{}
+			],
+			"id": "3"
 		},
 		{
-			"id": "2",
 			"date": "2016-10-06",
-			"recipient": {
-				"name": "Widget Corp",
-				"address": "1 Technology Square\nCambridge, MA 02139"
-			},
-			"currency": "$",
+			"recipient": {},
 			"services": [
-				{
-					"description": "Website design",
-					"amount": "20000"
-				},
-				{
-					"description": "Advertising",
-					"amount": "100"
-				},
-				{
-					"description": "Web hosting",
-					"amount": "20"
-				}
+				{},
+				{},
+				{}
 			]
 		},
 		{
-			"id": "1",
 			"date": "2016-10-07",
-			"recipient": {
-				"name": "John Doe",
-				"address": "2 Modern Red Square\nLong Island City\nNew York, NY 1120"
-			},
-			"currency": "$",
+			"recipient": {},
 			"services": [
-				{
-					"description": "House cleaning",
-					"amount": "70"
-				}
+				{}
 			]
 		}
 	]
