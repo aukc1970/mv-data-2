@@ -6,6 +6,24 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"date": "2022-05-20",
+			"recipient": {
+				"name": "Олег",
+				"address": "Москва"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "книги",
+					"amount": "20"
+				},
+				{
+					"description": "ручки",
+					"amount": "50"
+				}
+			]
+		},
+		{
 			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
